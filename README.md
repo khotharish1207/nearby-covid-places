@@ -4,4 +4,5 @@
 
 Every person can benefit from being able to easily find nearby COVID vaccination centre, see them on a map, get directions, and get more information about them. 
 
+Live URL  - https://khotharish1207.github.io/nearby-covid-places/
 View more - https://github.com/MapmyIndia/mapmyindia-nearby-covid-places
